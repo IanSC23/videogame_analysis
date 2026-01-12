@@ -1,0 +1,2 @@
+#### Videogame Analyisis
+This is a jupyter notebook with data processing, metrics and graphs that shows how the videogame market has been developping over the years. It includes comparisons between genres, sales areas, ratings and platforms. Here I discover what are the biggest videogame hits and what is the most accurate relationship between zones(North America, Japan, Australia), genres and platforms.
